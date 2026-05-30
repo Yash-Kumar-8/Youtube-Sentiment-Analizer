@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Replace:
 
 ```python
-api_key = "YOUR_YOUTUBE_API_KEY"
+api_key = "My_API_Key"
 ```
 
 with your own YouTube API key.
